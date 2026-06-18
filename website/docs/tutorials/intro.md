@@ -1,4 +1,6 @@
----
+---id: intro
+title: Tutorials intro
+
 id: intro
 title: Tutorials intro
 ---
